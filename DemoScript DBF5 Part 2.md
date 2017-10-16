@@ -8,6 +8,9 @@ Session by
 Git Repo can be found here
 [Github Repo Techdays 2017 (alexthissen)](https://github.com/alexthissen/techdays2017)
 
+## Abstract ##
+In the first part of the session we saw why containerized delivery is important and how to create an application within a container and move it to a cluster in an automated way. In this session we will dive under the hood and take you on this learning journey to unravel the underlying technology and find out how and why things work! 
+
 ## Demo 1 - Building and Running Docker Images ##
 
 This demo is all about understanding how Visual Studio works with the Docker files. 
